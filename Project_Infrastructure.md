@@ -50,6 +50,7 @@ In this informal, free-form talk, we'll identify these infrastructure blocks, su
 
 ###### DevOps and tools
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)
+* [Deployment environment](https://en.wikipedia.org/wiki/Deployment_environment) e.g. QA, UAT, Production
 * [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine)
 * [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software))
 * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
