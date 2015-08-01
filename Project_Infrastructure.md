@@ -43,6 +43,7 @@ In this informal, free-form talk, we'll identify these infrastructure blocks, su
 ###### Build Server (Continuous Integration Server)
 * can we automate the build process via a dedicated agent?
 * [Continuous Integration definition](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Martin Fowler's original article on CI](http://www.martinfowler.com/articles/continuousIntegration.html)
 * [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software))
 * [Travis CI](https://en.wikipedia.org/wiki/Travis_CI)
 
