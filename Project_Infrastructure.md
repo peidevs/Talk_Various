@@ -1,4 +1,5 @@
 
+*Notes from an improvised talk at [the IT Garage](https://twitter.com/TheITGarage), July 2015*
 
 ###### Lifecycle of a Bug Fix
 
